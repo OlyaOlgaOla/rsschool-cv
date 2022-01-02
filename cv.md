@@ -1,7 +1,7 @@
 # Olga Schastnaya 
 ## Junior Frontend Developer 
 *****
-### Contact information:
+### Contacts:
 Location: Minsk, Belarus
 
 Phone: +375296387727
