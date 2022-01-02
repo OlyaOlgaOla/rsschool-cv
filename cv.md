@@ -1,5 +1,5 @@
 # Olga Schastnaya 
-## Junior Frontend Developer 
+## Junior Front-end Developer 
 *****
 ### Contacts:
 Location: Minsk, Belarus
